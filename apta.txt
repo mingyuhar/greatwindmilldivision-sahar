@@ -1,0 +1,3 @@
+nama     :apta mahendra
+umur     :17 tahun
+hobi     :mendengar musik,bermain game,dan menggambar
